@@ -77,10 +77,6 @@ Lab Two/
 
 ### Folder Structure Preview
 
-> The following image shows the organization of the three tasks inside the project.
-
-![Lab Two folder structure](./image.png)
-
 ---
 
 ## Tasks
